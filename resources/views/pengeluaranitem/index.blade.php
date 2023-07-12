@@ -1,4 +1,4 @@
-<h1>Data Bagian</h1>
+<h1>Data PengeluaranItem Khory </h1>
 
 <table border="1">
 
